@@ -1,0 +1,9 @@
+<templateSet group="PHP">
+  <template name="time" value="$t1 = microtime(true);&#10;&#10;for ($i = 0; $i &lt; $N$; $i++) {&#10;    $EXPRESSION$;&#10;}&#10;&#10;$t2 = microtime(true);&#10;&#10;echo $t2 - $t1 . PHP_EOL;&#10;" description="Time something" toReformat="false" toShortenFQNames="true">
+    <variable name="N" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPRESSION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
