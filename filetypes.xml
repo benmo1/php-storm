@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="shunit2" type="Bash" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
