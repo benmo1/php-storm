@@ -6,9 +6,9 @@
     <keyboard-shortcut first-keystroke="ctrl x" />
   </action>
   <action id="ResetToMySettings">
-    <keyboard-shortcut first-keystroke="ctrl alt home" />
+    <keyboard-shortcut first-keystroke="meta alt home" />
   </action>
   <action id="ResetToTheirsSettings">
-    <keyboard-shortcut first-keystroke="ctrl alt end" />
+    <keyboard-shortcut first-keystroke="meta alt end" />
   </action>
 </keymap>
