@@ -4,6 +4,7 @@
       <mapping pattern="shunit2" type="Bash" />
       <mapping pattern="phing" type="PLAIN_TEXT" />
       <mapping pattern=".env.admin" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="search_filter" type="PLAIN_TEXT" />
       <mapping pattern="composer" type="PLAIN_TEXT" />
