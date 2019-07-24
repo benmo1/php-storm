@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Novendor" />
+    <option name="defaultScopeName" value="Novendor" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Novendor" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -15,7 +18,6 @@
     <mask>!*.phpt !*tests</mask>
     <mask>!*.phpt !*-tests</mask>
     <mask>*Test.php</mask>
-    <mask>*.php</mask>
     <mask>*.php,!*Test.php</mask>
     <mask>*.sql</mask>
     <mask>*.inc,*.php</mask>
@@ -23,5 +25,6 @@
     <mask>!*.json, !*.bundle.js, !*Test.js,!*.md</mask>
     <mask>!*.json, !*.bundle.js, !*Test.js,!*.md,!*.min.js</mask>
     <mask>!*.json, !*.bundle.js, !*Test.js,!*.md,!*.min.js,!*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
