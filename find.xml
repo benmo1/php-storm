@@ -16,7 +16,6 @@
     <mask>!*.phpt !*-tests</mask>
     <mask>*Test.php</mask>
     <mask>*.php,!*Test.php</mask>
-    <mask>*.sql</mask>
     <mask>*.inc,*.php</mask>
     <mask>!*.json, !*.bundle.js, !*Test.js,!*.md</mask>
     <mask>!*.json, !*.bundle.js, !*Test.js,!*.md,!*.min.js</mask>
@@ -27,5 +26,6 @@
     <mask>*.js, *.tsx</mask>
     <mask>*.php, !*Test.php</mask>
     <mask>*.php, !*Test.php,  !*Cest.php</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
