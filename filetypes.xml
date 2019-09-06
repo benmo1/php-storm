@@ -8,6 +8,7 @@
       <mapping ext="example" type="PLAIN_TEXT" />
       <mapping ext="deb" type="PLAIN_TEXT" />
       <mapping ext="node" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
