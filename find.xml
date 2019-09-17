@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*Test.php" />
+    <option name="FILE_MASK" value="!*Test.php, *.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -28,5 +28,6 @@
     <mask>*.php, !*Test.php,  !*Cest.php</mask>
     <mask>*.sql</mask>
     <mask>!*Test.php</mask>
+    <mask>!*Test.php, *.php</mask>
   </component>
 </application>
